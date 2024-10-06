@@ -584,6 +584,12 @@ nav.gul {
     border-radius: 10px;
    
 }
+.footer__footer-icon__fotul__ln {
+        padding: 5px;
+        color: white;
+        font-size: 30px;
+        border-radius: 10px;
+}
 .footer__footer-icon__fotul__link{
     padding: 5px;
     color: white;
